@@ -1,0 +1,23 @@
+Exert your full omnipotence by actually making something.
+Plus it's fun.
+
+Syntax:
+	LetThereBe [object] [radius] [angleXY] [angleYZ] [?orbit]
+	@Returns		Object reference ID. 
+
+Parameters:
+	*Object*
+	Object to create.
+	Objects available:
+		-Star			(Big. Oooh, shiny too.)
+		-Planet  		(Also big. Not shiny. Needs shiny.)
+		-Moon			(Small. Not shiny at all. Doesn't need much.)
+		-Asteroid		(Mostly a small rock.)
+	*Radius*
+	Distance to the center of the universe. That means you.
+	*AngleXY*
+	Angle in the horizontal plane of the universe. Yep. (In degrees.)
+	*AngleYZ*
+	Angle in the vertical plane of existance. (In degrees.)
+	*Orbit*
+	What the object orbits (ID). If unspecified, orbits the center of the universe.

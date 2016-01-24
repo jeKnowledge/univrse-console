@@ -1,0 +1,3 @@
+Hello, and welcome to the game!
+UniVRse is a game about programming, the meaning of life, and generally being all-mighty.
+Type "godMode" to start.

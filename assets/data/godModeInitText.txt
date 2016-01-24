@@ -1,0 +1,20 @@
+Checking Existence	..........................	[OK]
+Posing Filosophical Questions	..............	[OK]
+Calculating Meaning of Life	..................	[OK]
+Solving Recursive Paradox	..................	[OK]
+Caching Own Image	..........................	[OK]
+Verifying Modules Of Existance:
+	Perfection	..............................	[OK]
+	Free Will	..............................	[OK]
+	Multiple Self-Interpretation	..........	[OK]
+	Vaguely Inform About Self	..............	[OK]
+	Volatile Personality	..................	[OK]
+Checking n-th dimention cores	..............	[OK]
+Enforcing Karma	..............................	[OK]
+Performing Miracles	..........................	[OK]
+Logically Proving	..........................	[ERROR]
+Checking irresolvability of
+				quantum mechanics	..........	[OK]
+Omnipotence		..............................	[OK]
+
+Waiting for UniVRse OOnity App	..............	[WAITING]
